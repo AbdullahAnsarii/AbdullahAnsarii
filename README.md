@@ -30,6 +30,7 @@ As a software developer, I like to create things that make a difference.
 🚀 **My Creations**
 
 - [JUMBOS Conversion](https://www.rightaboutnow.com) (Under active development)
+- [Magical Digits Website](https://www.magicaldigits.com)
 - [Opticofy](https://opticofy.com)
 - [NED Express](https://play.google.com/store/apps/details?id=com.nedexpress)
 
