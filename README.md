@@ -20,18 +20,20 @@ As a software developer, I like to create things that make a difference.
   
 </br>
 
-- 👨‍🔬 I’m currently working on converting a system of more than 500 legacy ASP websites to ASP.NET/React
+- 👨‍🔬 I’m currently working on client-side design and development of Yallah Property website using Next.js
 - 👨‍🔧 I’m currently learning Docker and Kubernetes on [PluralSight](https://www.pluralsight.com/)
-- 👨‍💻 I am currently employed as a Senior Software Engineer at [Magical Digits](https://www.github.com/MagicalDigits)
+- 👨‍💻 I am currently employed as a Senior Frontend Developer at [DAT Consultancy](https://www.datconsultancy.com/)
 - 👨‍🎓 I have done Bachelor of Engineering(BE) in Computer Systems(CS) from [NED University](https://www.neduet.edu.pk/)
 
 </br>
 
 🚀 **My Creations**
-
-- [JUMBOS Conversion](https://www.rightaboutnow.com) (Under active development)
+- [Yallah Property](https://sandbox.yallahproperty.com/en) (Under active development)
+- [Twin Brain](https://twin-brain.vercel.app)
+- [JUMBOS Conversion](https://www.rightaboutnow.com)
 - [Magical Digits Website](https://www.magicaldigits.com)
 - [Opticofy](https://opticofy.com)
+- [Auric Asia](https://auricasia.vercel.app)
 - [NED Express](https://play.google.com/store/apps/details?id=com.nedexpress)
 
 📈 **My GitHub Stats**
