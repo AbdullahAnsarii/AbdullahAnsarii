@@ -28,7 +28,7 @@ As a software developer, I like to create things that make a difference.
 </br>
 
 🚀 **My Creations**
-- [Yallah Property](https://sandbox.yallahproperty.com/en) (Under active development)
+- [Yallah Property](https://yallahproperty.com/en) (Under active development)
 - [Twin Brain](https://psychassessment.twinbrain.org/)
 - [JUMBOS Conversion](https://www.rightaboutnow.com)
 - [Magical Digits Website](https://www.magicaldigits.com)
