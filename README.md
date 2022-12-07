@@ -12,7 +12,7 @@
 
 ### Welcome to my Github profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AbdullahAnsarii.AbdullahAnsarii)
 
-I am a full-stack software developer. I love programming, writing, watching movies, working out and traveling.
+I am a full-stack software developer. I like programming, writing, watching movies, working out and traveling.
 
 As a software developer, I like to create things that make a difference.
 
