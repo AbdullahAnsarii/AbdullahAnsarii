@@ -22,7 +22,7 @@ As a software developer, I like to create things that make a difference.
 
 - 👨‍🔬 I’m currently working on client-side design and development of Yallah Property website using Next.js
 - 👨‍🔧 I’m currently learning Docker and Kubernetes on [PluralSight](https://www.pluralsight.com/)
-- 👨‍💻 I am currently employed as a Senior Frontend Developer at [DAT Consultancy](https://www.datconsultancy.com/)
+- 👨‍💻 I am currently employed as a Senior Software Engineer at [DAT Consultancy](https://www.datconsultancy.com/)
 - 👨‍🎓 I have done Bachelor of Engineering(BE) in Computer Systems(CS) from [NED University](https://www.neduet.edu.pk/)
 
 </br>
