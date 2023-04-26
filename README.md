@@ -42,7 +42,7 @@ As a software developer, I like to create things that make a difference.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahAnsarii&show_icons=true&hide_border=true&theme=cobalt&count_private=true&include_all_commits=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAnsarii&show_icons=true&hide_border=true&theme=cobalt&hide=hlsl,shaderlab&exclude_repo=SVR&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAnsarii&exclude_repo=SVR&show_icons=true&hide_border=true&theme=cobalt&hide=hlsl,shaderlab&layout=compact&langs_count=8"/>
 </p>
 
 🤺 **My Skills**
