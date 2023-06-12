@@ -22,7 +22,6 @@
 - [Auric Asia](https://auricasia.vercel.app)
 - [NED Express](https://play.google.com/store/apps/details?id=com.nedexpress)
 
-📈 **My Languages**
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAnsarii&show_icons=true&hide_border=true&theme=cobalt&hide=jupyter%20notebook,hlsl,c%23,shaderlab&layout=compact&langs_count=8"/>
 
