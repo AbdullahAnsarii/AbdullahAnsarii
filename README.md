@@ -11,7 +11,6 @@
 
 
 🚀 **My Work**
-- [rn-story](https://www.npmjs.com/package/rn-story)
 - [Yallah Property Android App](https://play.google.com/store/apps/details?id=com.yallahproperty) 
 - [Yallah Property IOS App](https://apps.apple.com/us/app/yallah-property/id6445839622) 
 - [Yallah Property Website](https://yallahproperty.ae/en)
@@ -19,6 +18,8 @@
 - [JUMBOS Conversion](https://101escapes.com/)
 - [Magical Digits Website](https://www.magicaldigits.com)
 - [Opticofy](https://opticofy.com)
+- [rn-story](https://www.npmjs.com/package/rn-story)
+- [Global News Now](https://www.newsglobalnow.com)
 - [Auric Asia](https://auricasia.vercel.app)
 - [NED Express](https://play.google.com/store/apps/details?id=com.nedexpress)
 
