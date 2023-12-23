@@ -27,17 +27,3 @@
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahansarii&show_icons=true&hide_border=true&theme=cobalt&count_private=true&include_all_commits=false" /> -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAnsarii&show_icons=true&hide_border=true&theme=cobalt&hide=jupyter%20notebook,hlsl,c%23,shaderlab&layout=compact&langs_count=8"/>
 </p>
-
-🤺 **My Skills**
-<p>
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
