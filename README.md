@@ -1,9 +1,5 @@
 ### Hi there, I'm Abdullah Ansari
 
-<p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAnsarii&show_icons=true&hide_border=true&theme=cobalt&hide=jupyter%20notebook,hlsl,c%23,shaderlab&layout=compact&langs_count=8"/>
-</p>
-
 #### Connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahansarii)
